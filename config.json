@@ -1,9 +1,9 @@
 {
   "detector": "venue_date",
-  "movie": "Spider-Man: Brand New Day",
-  "requested_date": "20260730",
-  "venue_code": "INTO",
-  "venue_label": "INOX: The Marina Mall, OMR",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/spiderman-brand-new-day/buytickets/ET00502600/{date}",
+  "movie": "Ramayana IMAX 3D",
+  "requested_date": "20261115",
+  "venue_code": "PVPZ",
+  "venue_label": "PVR: Palazo, The Nexus Vijaya Mall",
+  "url_template": "https://in.bookmyshow.com/movies/chennai/ramayana/buytickets/ET00523959/{date}",
   "min_references": 10
 }
