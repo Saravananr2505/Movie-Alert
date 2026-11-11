@@ -1,7 +1,7 @@
 {
   "detector": "venue_date",
   "movie": "Ramayana 3D",
-  "requested_date": "20261115",
+  "requested_date": "20261116",
   "venue_code": "RAKK",
   "venue_label": "Rakki",
   "url_template": "https://in.bookmyshow.com/movies/chennai/ramayana/buytickets/ET00524790/{date}",
